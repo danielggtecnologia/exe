@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -85,7 +85,7 @@
   <string role="key" value="_name"></string>
   <unicode value="UP1_Proceso_de_resolucion_de_problemas"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="76"></int>
+  <int value="80"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="49"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -325,7 +325,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="68541"></int>
+                  <int value="68551"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -339,7 +339,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="66_127_2.2"></unicode>
+                <unicode value="66_127_2.3"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="7">
                  <dictionary>
@@ -350,7 +350,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Metodo_de_proyectos.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\hp8100~1\\appdata\\local\\temp\\tmpzvmjox\\Metodo_de_proyectos.png"></string>
+                  <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmp7pvtpu\\Metodo_de_proyectos.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="4a949874c8aed5c8a998012a0b5c3f43"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -379,7 +379,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="3"></int>
+           <int value="4"></int>
            <string role="key" value="parentNode"></string>
            <reference key="3"></reference>
           </dictionary>
@@ -956,7 +956,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="68538"></int>
+                     <int value="68546"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -970,7 +970,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="71_131_2.5"></unicode>
+                   <unicode value="71_131_2.7"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -981,7 +981,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Creatividad.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\hp8100~1\\appdata\\local\\temp\\tmpzvmjox\\Creatividad.jpg"></string>
+                     <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmp7pvtpu\\Creatividad.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="97ee266a4120331a5047e1c38df1500b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1008,7 +1008,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="68540"></int>
+                     <int value="68550"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1022,7 +1022,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="71_131_2.6"></unicode>
+                   <unicode value="71_131_2.8"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="18">
                     <dictionary>
@@ -1033,7 +1033,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="lluvia-de-ideas.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\hp8100~1\\appdata\\local\\temp\\tmpzvmjox\\lluvia-de-ideas.jpg"></string>
+                     <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmp7pvtpu\\lluvia-de-ideas.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="11f0aca040bd7395ec25137d9cf71e0f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1062,7 +1062,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="7"></int>
+              <int value="9"></int>
               <string role="key" value="parentNode"></string>
               <reference key="10"></reference>
              </dictionary>
@@ -1361,7 +1361,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="68539"></int>
+                     <int value="68547"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1375,7 +1375,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="74_134_2.2"></unicode>
+                   <unicode value="74_134_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="24">
                     <dictionary>
@@ -1386,7 +1386,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Fases_negocio.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\hp8100~1\\appdata\\local\\temp\\tmpzvmjox\\Fases_negocio.PNG"></string>
+                     <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmp7pvtpu\\Fases_negocio.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="43e14aa18a9d12c53199a0082545a9d1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1415,7 +1415,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="21"></reference>
              </dictionary>
@@ -1447,37 +1447,10 @@
            <int value="0"></int>
           </dictionary>
          </instance>
-        </list>
-        <string role="key" value="_id"></string>
-        <unicode value="47"></unicode>
-        <string role="key" value="_package"></string>
-        <reference key="5"></reference>
-        <string role="key" value="anchor_fields"></string>
-        <list></list>
-        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exportType"></string>
-        <string value="website"></string>
-        <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Definici%C3%B3n%20y%20prop%C3%B3sito%20de%20la%20Tecnolog%C3%ADa:Emprendimiento"></string>
-        <string role="key" value="parent"></string>
-        <reference key="3"></reference>
-        <string role="key" value="top_anchors_linked_from_fields"></string>
-        <list></list>
-        <string role="key" value="children"></string>
-        <list></list>
-       </dictionary>
-      </instance>
-      <instance class="exe.engine.node.Node" reference="27">
-       <dictionary>
-        <string role="key" value="_title"></string>
-        <unicode value="Ciclo de vida de un producto"></unicode>
-        <string role="key" value="idevices"></string>
-        <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="25">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value=""></unicode>
+           <unicode value="La estrategia de negocio y financiación  en el emprendimiento"></unicode>
            <string role="key" value="_attributes"></string>
            <list>
             <tuple>
@@ -1530,7 +1503,7 @@
            <string role="key" value="edit"></string>
            <bool value="0"></bool>
            <string role="key" value="emphasis"></string>
-           <int value="0"></int>
+           <int value="1"></int>
            <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
            <int value="1"></int>
            <string role="key" value="fields"></string>
@@ -1538,7 +1511,7 @@
             <instance class="exe.engine.field.TextAreaField" reference="26">
              <dictionary>
               <string role="key" value="_id"></string>
-              <unicode value="127_2"></unicode>
+              <unicode value="129_2"></unicode>
               <string role="key" value="_idevice"></string>
               <reference key="25"></reference>
               <string role="key" value="_instruc"></string>
@@ -1547,17 +1520,25 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El &lt;strong&gt;ciclo de vida&lt;/strong&gt; de un producto comienza con su diseño y finaliza con su eliminación. Incluye todas las etapas del proceso tecnológico: diseño, desarrollo, construcción, comercialización (marketing), uso y eliminación.&lt;/p&gt;
-&lt;p&gt;En el &lt;strong&gt;diseño&lt;/strong&gt; de un nuevo objeto debe definirse el aspecto final del mismo y, para ello, suelen utilizarse distintos tipos de dibujos o planos:&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para emprender, es esencial ser autocritico y ser consciente de que menos del 10 % de las empresas tienen éxito. La mayoría fracasa en el &quot;valle de la muerte&quot;, una etapa donde los gastos superan los ingresos, por lo que es crucial prepararse y conseguir usuarios rápidamente para asegurar la viabilidad económica. Emprender es arriesgado, con más probabilidades de fracaso que de éxito. No obstante, aquellos con experiencia previa tienen mayores oportunidades de triunfar. Es fundamental asegurar la sostenibilidad económica y personal del proceso, ya sea con otra fuente de ingresos o con una baja inversión.&lt;/p&gt;
+&lt;p&gt;Para emprender, es esencial definir una &lt;strong&gt;estrategia de negocio clara y saber cómo financiar el proyecto&lt;/strong&gt;. Esto implica diseñar un &lt;strong&gt;plan estratégico&lt;/strong&gt; que identifique los gastos, inversiones necesarias y las líneas de financiación. También es importante conocer las fortalezas y debilidades del producto, los tiempos y los procesos críticos.&lt;/p&gt;
+&lt;p&gt;Las formas de financiar una empresa incluyen:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Dibujos de conjunto&lt;/strong&gt;. Perspectivas que muestran el objeto en su totalidad para dar una idea de su aspecto final y modo de uso.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vistas principales&lt;/strong&gt; del objeto. Plantas, perfiles y alzados, así como secciones representativas. Permiten indicar la geometría y las medidas del objeto.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Despieces&lt;/strong&gt;. Son perspectivas y vistas de cada una de las partes que componen el objeto.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Detalles de piezas y uniones&lt;/strong&gt;. Para aclarar las partes más difíciles de fabricar en cada caso.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;"></unicode>
+&lt;li&gt;&lt;strong&gt;Financiación interna&lt;/strong&gt;, generada por la propia actividad de la empresa.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financiación externa&lt;/strong&gt;, como:
+&lt;ul&gt;
+&lt;li&gt;Aportaciones de los &lt;strong&gt;socios&lt;/strong&gt; a cambio de acciones.&lt;/li&gt;
+&lt;li&gt;Sistemas de &lt;em&gt;&lt;strong&gt;leasing&lt;/strong&gt; &lt;/em&gt;y &lt;em&gt;&lt;strong&gt;renting&lt;/strong&gt; &lt;/em&gt;para reducir los costos iniciales.  Son formas de alquilar algo, como un coche o maquinaria, por un tiempo:
+&lt;p&gt;- Leasing: alquilas el bien con la opción de comprarlo al final del contrato.&lt;br /&gt;- Renting: alquilas el bien sin opción de compra y el contrato incluye mantenimiento y reparaciones.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Campañas de &lt;em&gt;&lt;strong&gt;crowdfunding&lt;/strong&gt;&lt;/em&gt;, donde pequeños inversores aportan dinero a cambio de recompensas.&lt;/li&gt;
+&lt;li&gt;Inversores externos como bancos o fondos de inversión.&lt;/li&gt;
+&lt;li&gt;Subvenciones, becas y ayudas públicas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La coherencia del modelo de negocio, la estrategia y la imagen del producto son clave para atraer inversores y asegurar el éxito del proyecto.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1580,7 +1561,489 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
+              <none></none>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="78"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="21"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="27">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Iniciativa, perseverancia y conocimiento en el emprendimieto"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="28">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="130_2"></unicode>
+              <string role="key" value="_idevice"></string>
               <reference key="27"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Una empresa exitosa debe estar en constante innovación. Ejemplos como Facebook, Google o WhatsApp muestran cómo estas plataformas buscan mejorar continuamente sus servicios, no solo para los usuarios, sino también para mantenerse competitivas. Este proceso implica añadir y probar nuevas funciones y medir la aceptación continuamente.&lt;/p&gt;
+&lt;p&gt;El ciclo de mejora constante incluye tres pasos clave: &lt;strong&gt;creación&lt;/strong&gt;, &lt;strong&gt;validación&lt;/strong&gt; y &lt;strong&gt;aprendizaje&lt;/strong&gt;. Las marcas lanzan versiones Beta de sus aplicaciones, prototipos de nuevos productos (como coches, teléfonos o electrodomésticos), y realizan ensayos para validar sus ideas. A veces, la innovación es tan simple como cambiar el diseño o los colores, mientras que en otros casos, implica grandes cambios como ofrecer productos más ecológicos o rediseñar por completo su misión y su oferta.&lt;/p&gt;
+&lt;p&gt;La interacción con los usuarios es esencial en este proceso. Es importante conocer sus dudas, dificultades y deseos para mejorar el producto y su comercialización. Fuentes como las reseñas en páginas de compras, críticas en revistas especializadas, comparaciones con otras marcas y las pruebas de influencers son herramientas útiles para estar al tanto de las preferencias del mercado.&lt;/p&gt;
+&lt;p&gt;En resumen, los dos pilares para ser un emprendedor exitoso son la &lt;strong&gt;iniciativa&lt;/strong&gt; y la &lt;strong&gt;perseverancia&lt;/strong&gt;. Es fundamental tener una combinación de idealismo para generar nuevas ideas y realismo para hacerlas viables. Además, se requiere una gran capacidad de organización, trabajo y gestión de proyectos.&lt;/p&gt;
+&lt;p&gt;El &lt;strong&gt;conocimiento&lt;/strong&gt; también juega un papel clave en el éxito de cualquier emprendedor. Es recomendable formar equipos multidisciplinares con personas de diferentes especialidades y personalidades. Contar con estos ingredientes aumenta significativamente las probabilidades de éxito en cualquier proyecto emprendedor.&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="28"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <none></none>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="79"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="21"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="_id"></string>
+        <unicode value="47"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="5"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:Definici%C3%B3n%20y%20prop%C3%B3sito%20de%20la%20Tecnolog%C3%ADa:Emprendimiento"></string>
+        <string role="key" value="parent"></string>
+        <reference key="3"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="31">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="Desarrollo y ciclo de vida de un producto"></unicode>
+        <string role="key" value="idevices"></string>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="29">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Desarrollo de un producto"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="30">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="127_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="29"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El &lt;strong&gt;desarrollo&lt;/strong&gt; incluye todas las etapas del proceso tecnológico una vez ideada la solución al problema planteado: diseño de la solución adoptada, construcción (previa planificación del trabajo, elaboración de presupuestos y construcción y verificación de un prototipo), comercialización (marketing) y eliminación.&lt;/p&gt;
+&lt;p&gt;En el &lt;span style=&quot;font-size: 14pt; color: #ff6600;&quot;&gt;&lt;strong&gt;diseño&lt;/strong&gt; &lt;/span&gt;de un nuevo objeto debe definirse el aspecto final del mismo y, para ello, suelen utilizarse distintos tipos de dibujos o planos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dibujos de conjunto&lt;/strong&gt;. Perspectivas que muestran el objeto en su totalidad para dar una idea de su aspecto final y modo de uso.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vistas principales&lt;/strong&gt; del objeto. Plantas, perfiles y alzados, así como secciones representativas. Permiten indicar la geometría y las medidas del objeto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Despieces&lt;/strong&gt;. Son perspectivas y vistas de cada una de las partes que componen el objeto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detalles de piezas y uniones&lt;/strong&gt;. Para aclarar las partes más difíciles de fabricar en cada caso.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Antes de construir el objeto o crear tu producto, debe existir una correcta &lt;span style=&quot;font-size: 14pt; color: #ff6600;&quot;&gt;&lt;strong&gt;planificación&lt;/strong&gt; &lt;/span&gt;de las tareas a realizar por cada miembro del equipo, para lo que suelen utilizarse diferentes documentos en los que se muestren claramente cuándo y quiénes realizan cada una de dichas tareas y la temporalización de las mismas. Por ejemplo, se pueden utilizar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hojas de procesos&lt;/strong&gt;. Tablas en las que se reflejan cada una de las acciones necesarias para la fabricación del objeto, quién es responsable de hacerlas, qué materiales y herramientas hacen falta y el tiempo necesario para llevarlas a cabo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/Hojadeprocesos.png&quot; alt=&quot;Hoja de procesos&quot; width=&quot;580&quot; height=&quot;214&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Diagramas de Gantt&lt;/strong&gt; de gestión del tiempo. Documentos que indican en qué momento se debe llevar a cabo cada tarea y cuáles se pueden simultanear, mediante el empleo de barras ubicadas a lo largo de una línea de tiempo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/Gantt.png&quot; alt=&quot;Diagrama de Gantt&quot; width=&quot;800&quot; height=&quot;350&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;El &lt;span style=&quot;font-size: 14pt; color: #ff6600;&quot;&gt;&lt;strong&gt;presupuesto&lt;/strong&gt; &lt;/span&gt;sirve para conocer los costes de fabricación de un objeto, para poder tomar decisiones acerca de la viabilidad del proyecto completo, su rentabilidad y la posibilidad de cambiar algo en el diseño o los materiales que reduzcan el coste del mismo. Para elaborar el presupuesto necesitamos conocer el coste de cada elemento, teniendo en cuenta los materiales y la mano de obre necesarios para fabricarlo.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/Presupuesto.png&quot; alt=&quot;Presupuesto&quot; width=&quot;768&quot; height=&quot;423&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Una vez definido por completo, conociendo los pasos que necesitamos para construirlo y el coste que va a tener, podemos empezar la &lt;span style=&quot;font-size: 14pt; color: #ff6600;&quot;&gt;&lt;strong&gt;fabricación de un prototipo&lt;/strong&gt;&lt;/span&gt; siguiendo la hoja de procesos. En este punto, es muy probable que aparezcan problemas nuevos y haya que adoptar soluciones sobre la marcha. Los cambios sobre la idea original se deben ir apuntando y, si es necesario, se deben rehacer los planos del diseño.&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Una vez construido, hay que proceder a la &lt;span style=&quot;font-size: 14pt; color: #ff6600;&quot;&gt;&lt;strong&gt;verificación del prototipo &lt;/strong&gt;&lt;/span&gt;para ver si cumple con su cometido y si admite mejoras, planteando cuestiones como:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Funcionalidad&lt;/strong&gt;. ¿Cumple los requisitos para los que está pensado? ¿Es fácil su manejo? ¿Requiere instrucciones?&lt;/li&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Apariencia&lt;/strong&gt;. ¿Resulta agradable estéticamente? ¿Se puede mejorar su apariencia?&lt;/li&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Accesibilidad&lt;/strong&gt;. ¿Se adapta a los usuarios a los que está destinado? ¿Incita al uso?&lt;/li&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Materiales&lt;/strong&gt;. ¿Hemos elegido bien los materiales? ¿Son reciclables? ¿Podríamos haber elegido materiales más económicos?&lt;/li&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Durabilidad&lt;/strong&gt;. ¿Cuánto tiempo durará el objeto si se le da un buen uso? ¿Es frágil o fácilmente rompible? La vida útil de un producto es el tiempo que un producto puede usarse con todas sus prestaciones intactas. Hay ocasiones en que, ante productos muy duraderos o como fórmula para obtener mayor beneficio económico, los fabricantes emplean la &lt;strong&gt;obsolescencia programada&lt;/strong&gt;, que acorta la vida útil del producto con el fin de promover la compra de otro similar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/aBDykqMv0xc&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Mantenimiento&lt;/strong&gt;. ¿Necesitará alguna tarea de mantenimiento como engrasado de piezas o sustitución de las mismas con el tiempo? ¿Con qué frecuencia?&lt;/li&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;Etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es importante en este momento la opinión de cuantas más personas mejor, antes de proceder al lanzamiento definitivo de nuestro producto al mercado.&lt;/p&gt;
+&lt;p&gt;Una vez empiece la fabricación de nuestro producto, debemos centrarnos en su &lt;span style=&quot;font-size: 14pt; color: #ff6600;&quot;&gt;&lt;strong&gt;comercialización&lt;/strong&gt; &lt;/span&gt;(marketing). Es el conjunto de medios que emplea la compañía para vender el producto con la intención de obtener beneficio económico. El &lt;strong&gt;plan de marketing&lt;/strong&gt; tiene en cuenta los siguientes aspectos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fijación del &lt;strong&gt;precio&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Distribución&lt;/strong&gt; del producto desde el fabricante al consumidor: &lt;strong&gt;productor&lt;/strong&gt; --&amp;gt; &lt;strong&gt;mayorista&lt;/strong&gt; --&amp;gt; &lt;strong&gt;minorista&lt;/strong&gt; --&amp;gt; &lt;strong&gt;consumidor final&lt;/strong&gt;. Normalmente, el mayorista compra el producto en grandes cantidades y vende al minorista cantidades más pequeñas. Este, a su vez, vende al consumidor final, a través de una tienda física u &lt;em&gt;online&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publicidad&lt;/strong&gt; (en papel, en formato multimedia, a través de redes sociales,...).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Promoción&lt;/strong&gt; (muestras, degustaciones,...).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servicio integral al cliente&lt;/strong&gt; para atender dudas, reclamaciones, reparaciones...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La &lt;span style=&quot;font-size: 14pt; color: #ff6600;&quot;&gt;&lt;strong&gt;eliminación&lt;/strong&gt; &lt;/span&gt;de un producto comienza una vez que ha finalizado su uso y se convierte en &lt;strong&gt;RSU&lt;/strong&gt; (residuo sólido urbano). El tratamiento de los RSU se lleva a cabo mediante el &lt;strong&gt;reciclaje&lt;/strong&gt; (donde se recuperan los materiales para fabricar un nuevo producto), el depósito en un &lt;strong&gt;vertedero&lt;/strong&gt; controlado o la &lt;strong&gt;incineración&lt;/strong&gt; (obteniéndose energía en forma de calor o electricidad).&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="68548"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="75_127_2.4"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="32">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="29"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="5"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Gantt.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmp7pvtpu\\Gantt.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="e00966e34f9d380d387e20dc5291e51d"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="30"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="68549"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="75_127_2.5"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="33">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="29"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="5"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Hojadeprocesos.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmp7pvtpu\\Hojadeprocesos.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="f13b4b8fcecf427da8c9ada33cd1f1a4"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="30"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="68552"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="75_127_2.6"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="34">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="29"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="5"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Presupuesto.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmp7pvtpu\\Presupuesto.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="6860d9101679be05f371173e46629118"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="30"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
+                <string role="key" value="idevice"></string>
+                <reference key="30"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="7"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="31"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1597,13 +2060,224 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="27"></reference>
+           <reference key="31"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
+           <list>
+            <reference key="32"></reference>
+            <reference key="33"></reference>
+            <reference key="34"></reference>
+           </list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Ciclo de vida de un producto"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="36">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="128_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="35"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;En el ámbito empresarial, el ciclo de vida de un producto es el proceso por el que pasa desde que se introduce en el mercado hasta que sale de este. Tal y como se muestra en la gráfica inferior, pueden distinguirse cuatro etapas en dicho proceso:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/Ciclo_vida.png&quot; alt=&quot;Ciclo de vida de un producto&quot; width=&quot;451&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;h3 style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;strong&gt;Introducción&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;El producto sale al mercado por primera vez.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Es la fase de la publicidad y promoción, exigiendo altos gastos en marketing.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;Crecimiento&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Los consumidores comienzan a aceptar el producto y a comprarlo.&lt;/li&gt;
+&lt;li&gt;Si la competencia es elevada, los costes de marketing podrían seguir siendo altos para vencerla.&lt;/li&gt;
+&lt;li&gt;El mercado tiende a expandirse como resultado de la demanda del producto, acelerando el ritmo de crecimiento exponencialmente.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;Madurez&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;El mercado está saturado y las ventas tienden a disminuir.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Los precios tienden a volverse competitivos, por los que los márgenes de ganancia se reducen.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Las empresas, a menudo, modifican el producto para que sea más tractivo para el consumidor y/o puedan llegar a otros segmentos del mercado.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para mantener las ventas, se suelen crear programas de fidelización u ofrecer descuentos personalizados.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;strong&gt;Declive&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Las ventas del producto caen significativamente. La competencia tiende a contribuir en esta caída.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;El marketing suele ser mínimo o dirigirse solo a clientes leales.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Los precios se reducen. Esto, sumado a los bajos niveles de ventas, da lugar a una disminución de beneficios.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Eventualmente, el producto se retira del mercado por completo, a menos que se cree una nueva versión con características más atractivas.&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ff9900;&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="68553"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="77_128_2.0"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="37">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="35"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="5"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Ciclo_vida.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\dgg19\\appdata\\local\\temp\\tmpfsv4kb.eXe\\previews\\allyourbase\\Ciclo_vida.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="c578feb0a34ed63f5618338351ceda66"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="36"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
+                <string role="key" value="idevice"></string>
+                <reference key="36"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="1"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="31"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="77"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="31"></reference>
+           <string role="key" value="systemResources"></string>
            <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list>
+            <reference key="37"></reference>
+           </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
@@ -1620,7 +2294,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Definici%C3%B3n%20y%20prop%C3%B3sito%20de%20la%20Tecnolog%C3%ADa:Ciclo%20de%20vida%20de%20un%20producto"></string>
+        <string value="exe-node:Definici%C3%B3n%20y%20prop%C3%B3sito%20de%20la%20Tecnolog%C3%ADa:Desarrollo%20y%20ciclo%20de%20vida%20de%20un%20producto"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1637,7 +2311,7 @@
    <unicode role="key" value="47"></unicode>
    <reference key="21"></reference>
    <unicode role="key" value="48"></unicode>
-   <reference key="27"></reference>
+   <reference key="31"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -1650,7 +2324,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="27"></reference>
+  <reference key="31"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -1987,7 +2661,7 @@
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="28">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="38">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -2026,7 +2700,7 @@
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="29">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="39">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -2041,7 +2715,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="30">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="40">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -2091,10 +2765,10 @@
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="28"></reference>
+         <reference key="38"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="29"></reference>
+          <reference key="39"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -2102,7 +2776,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="30"></reference>
+           <reference key="40"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -2584,7 +3258,7 @@
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="31">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="41">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -2623,7 +3297,7 @@
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="32">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="42">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -2638,7 +3312,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="33">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="43">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -2688,10 +3362,10 @@
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="31"></reference>
+         <reference key="41"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="32"></reference>
+          <reference key="42"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -2699,7 +3373,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="33"></reference>
+           <reference key="43"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -2976,9 +3650,25 @@
    <list>
     <reference key="7"></reference>
    </list>
+   <string role="key" value="6860d9101679be05f371173e46629118"></string>
+   <list>
+    <reference key="34"></reference>
+   </list>
    <string role="key" value="97ee266a4120331a5047e1c38df1500b"></string>
    <list>
     <reference key="17"></reference>
+   </list>
+   <string role="key" value="c578feb0a34ed63f5618338351ceda66"></string>
+   <list>
+    <reference key="37"></reference>
+   </list>
+   <string role="key" value="e00966e34f9d380d387e20dc5291e51d"></string>
+   <list>
+    <reference key="32"></reference>
+   </list>
+   <string role="key" value="f13b4b8fcecf427da8c9ada33cd1f1a4"></string>
+   <list>
+    <reference key="33"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
